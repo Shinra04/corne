@@ -1,0 +1,7 @@
+# Empty starter keymap for Corneish Zen
+keymap:
+  - layer: BASE
+    bindings:
+      - "&kp A" "&kp B" "&kp C"
+      - "&kp D" "&kp E" "&kp F"
+      # ...just placeholders, editor will overwrite
